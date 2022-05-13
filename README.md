@@ -80,7 +80,7 @@ btn3.addEventListener("click", () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Mary Cole](https://friendly-gelato-07ecf6.netlify.app/)
 - Frontend Mentor - [@adebimpecole](https://www.frontendmentor.io/profile/adebimpecole)
 - Twitter - [@adecole02](https://twitter.com/adecole02)
 
