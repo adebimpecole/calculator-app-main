@@ -75,7 +75,7 @@ btn3.addEventListener("click", () => {
 ### Useful resources
 
 - [Example resource 1](https://masteringjs.io/tutorials/fundamentals/remove-last-character#) - This helped me in creating my delete button
-- [Example resource 2](https://www.educative.io/edpresso/eval-vs-function-in-javascript) - This is an amazing article which helped me understand the difference between the eval() method and the Function method and which one is better to use.
+- [Example resource 2](https://www.educative.io/edpresso/eval-vs-function-in-javascript) - This is an amazing article which helped me understand the difference between the eval() function and the Function() function and which one is better to use.
 
 
 ## Author
