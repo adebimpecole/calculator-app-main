@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to the function of the Function() method and how to use it. I also learnt how to download fonts and apply them to my document.
+I learnt about the Function() fuction and how to use it. I also learnt how to download fonts and apply them to my document.
 
 ```css
 @font-face {
@@ -67,7 +67,7 @@ btn3.addEventListener("click", () => {
 
 ### Continued development
 
-- The Function() method
+- The Function() function 
 - Arrow functions
 - Spread syntax
 - Add and remove classes in JS
