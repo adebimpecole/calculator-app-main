@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://friendly-gelato-07ecf6.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/adebimpecole/calculator-app-main.git)
+- Live Site URL: [Live site URL ](https://friendly-gelato-07ecf6.netlify.app/)
 
 ## My process
 
