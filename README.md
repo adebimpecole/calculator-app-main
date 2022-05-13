@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/adebimpecole/calculator-app-main.git)
-- Live Site URL: [Live site URL ](https://friendly-gelato-07ecf6.netlify.app/)
+- Live Site URL: [Live site URL ](https://sparkly-bublanina-4e712a.netlify.app/)
 
 ## My process
 
@@ -80,7 +80,7 @@ btn3.addEventListener("click", () => {
 
 ## Author
 
-- Website - [Mary Cole](https://friendly-gelato-07ecf6.netlify.app/)
+- Website - [Mary Cole](https://sparkly-bublanina-4e712a.netlify.app/)
 - Frontend Mentor - [@adebimpecole](https://www.frontendmentor.io/profile/adebimpecole)
 - Twitter - [@adecole02](https://twitter.com/adecole02)
 
