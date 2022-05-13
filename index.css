@@ -171,34 +171,34 @@ body{
 .themekey2{
     background-color: hsl(45, 7%, 89%);
     color: hsl(60, 10%, 19%);
-    box-shadow: hsl(35, 11%, 61%);
+    box-shadow: 0 3px hsl(35, 11%, 61%);
 }
 .themekey2_1{
     background-color: hsl(185, 42%, 37%);
     color: white;
-    box-shadow: hsl(185, 58%, 25%);
+    box-shadow: 0 3px hsl(185, 58%, 25%);
     font-size: 17px;
 }
 .themekey2_2{
     background-color: hsl(25, 98%, 40%);
     color: white;
-    box-shadow: hsl(25, 99%, 27%);
+    box-shadow: 0 3px hsl(25, 99%, 27%);
 }
 .themekey3{
     background-color: hsl(268, 47%, 21%);
     color: hsl(52, 100%, 62%);
-    box-shadow:  hsl(290, 70%, 36%);
+    box-shadow: 0 3px hsl(290, 70%, 36%);
 }
 .themekey3_1{
     background-color: hsl(281, 89%, 26%);
     color: hsl(0, 0, 100%);
-    box-shadow: hsl(290, 70%, 36%);
+    box-shadow: 0 3px hsl(290, 70%, 36%);
     font-size: 17px;
 }
 .themekey3_2{
     background-color: hsl(176, 100%, 44%);
     color: hsl(198, 20%, 13%);
-    box-shadow: hsl(177, 92%, 70%);
+    box-shadow: 0 3px hsl(177, 92%, 70%);
 }
 @media only screen and (max-width: 480px) {
     .input_property{
